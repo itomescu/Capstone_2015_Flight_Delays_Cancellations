@@ -22,7 +22,7 @@
 >* The current analysis focuses on the 2015 historical daily data of domestic flights operated by large air carriers, which includes specs on airlines, flights, airports, dates, time, and causes of delays and cancellations
 
 **Goals**
->* Identify major drivers for delays and cancellations 
+>* Identify major drivers for delays and cancellations
 >* Build a model to predict overall flight delays
 
 **Sources**
