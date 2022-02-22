@@ -3,7 +3,7 @@
 *<p style='text-align: left;'> Iulia Tomescu (October, 2021)</p>*
 <a href="https://www.linkedin.com/in/iuliatomescu-m/" style="float:left"> Iulia's LinkedIn profile</a><br>
 <a href="https://public.tableau.com/app/profile/iulia.tomescu" style="float:left"> Iulia's Tableau portfolio</a> <br>
-<a href="https://www.springboard.com/" style="float:left"> Discover Sprinboard</a>
+<a href="https://www.springboard.com/" style="float:left"> Discover Springboard</a>
 
 
 
