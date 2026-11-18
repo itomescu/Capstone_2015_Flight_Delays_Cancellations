@@ -29,6 +29,33 @@
 >* Identify major drivers for delays and cancellations
 >* Build a model to predict overall flight delays
 
+**Data and scope**
+>* 5.8 million US domestic flights in 2015 (main file: 29 columns, 592 MB), 14 airlines, 322 airports
+>* Cleaning: optimized data types for memory, converted times to timestamps, fixed October airport codes, merged 4 files
+
+**Methods**
+>* Python (pandas, Scikit-Learn, Statsmodels), Jupyter notebooks, Tableau
+>* Descriptive and inferential statistics; temporal, spatial and airline analysis
+>* Multivariate linear regression of delay magnitude, with three models compared (all data; below and above the 99th percentile)
+
+**Key findings**
+>* Weather (54%) and carrier issues (28%) caused 82% of cancellations; the top 5 airlines accounted for 75% of cancellations
+>* 1.5% of flights were cancelled, most often in winter and on Mondays and Tuesdays
+>* Large delays (over 45 minutes) were rare but made up 55% of total delay time; delay propagation (late-arriving aircraft) cost the most time
+>* Airlines recovered about half of departure delays in flight; Hawaiian and Alaska performed best on delay time, Spirit and United worst
+>* The top 3 airlines carried about 50% of domestic flights (Southwest alone 22%)
+
+**Model**
+>* The all-data regression model reached 87% accuracy (based on MAPE) on delay magnitude, using month, day, scheduled time, distance and the five delay causes
+>* Because delay causes are recorded after the flight, this model explains delay magnitude rather than forecasting it in advance
+
+**Files**
+>* 01 PDF: data examination and cleaning
+>* 02 to 03b notebooks: exploratory analysis (cancellations, delays, temporal patterns)
+>* 04 notebooks: modeling
+>* Presentation PDF: summary presentation (26 slides)
+
+
 **Sources**
 >* Kaggle: https://www.kaggle.com/usdot/flight-delays?select=flights.csv  
 >* US Department of Transportation: https://www.transportation.gov/airconsumer
