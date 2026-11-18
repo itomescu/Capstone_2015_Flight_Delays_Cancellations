@@ -8,7 +8,7 @@
 
 
 #### **General note**
->The goal of this Capstone2 project is multifold: **1)** to incorporate all the learnings (technical & analytical skills) acquired throughout the Data Analytics Career Track course offered by Springboard, **2)** to demonstrate & strengthen technical skills and computer literacy such as Python, Tableau, statistics, predictive analytics & modeling, **3)** generate a basic tutorial for people that are new to Python and Exploratory Data Analysis
+>The goal of this Capstone2 project is multifold: **1)** to incorporate all the learnings (technical & analytical skills) acquired throughout the Data Analytics Career Track course offered by Springboard, **2)** to demonstrate & strengthen technical skills and computer literacy such as Python, Tableau, statistics, predictive analytics & modeling, **3)** document the full workflow, from cleaning a large dataset to modeling, in reusable notebooks
 
 
 #### **Acknowledgments**
