@@ -55,7 +55,6 @@
 >* 04 notebooks: modeling
 >* Presentation PDF: summary presentation (26 slides)
 
-
 **Sources**
 >* Kaggle: https://www.kaggle.com/usdot/flight-delays?select=flights.csv  
 >* US Department of Transportation: https://www.transportation.gov/airconsumer
